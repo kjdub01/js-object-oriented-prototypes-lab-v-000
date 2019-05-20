@@ -4,7 +4,7 @@
   this.training = training
 }
 
-
+BoardMember.prototype.
 //   this.veto = function(){
 //     return 'No, I must disagree'
 //   }
