@@ -23,12 +23,12 @@ BoardMember.prototype.doCharity = function() {
 //     return "I like to help people."
 //   }
 BoardMember.prototype.releasePressStatement = function() {
-  return "I like to help people.";
+  return "You will see great things from Scuber.";
 };
 //   this.releasePressStatement = function(){
 //     return "You will see great things from Scuber."
 //   }
-BoardMember.prototype.doCharity = function() {
+BoardMember.prototype.sayHi = function() {
   return "I like to help people.";
 };
 //   this.sayHi = function(){
